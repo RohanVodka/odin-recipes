@@ -21,6 +21,7 @@ body {
 
 .links {
     text-align: center;
+    /* display: block; */
 }
 
 a:link {
@@ -40,4 +41,6 @@ button {
     font-size: 28px;
     color: #b00005;
     background-color: #f15623;
+    border: 2px solid green;
+    border-radius: 10px;
 }
