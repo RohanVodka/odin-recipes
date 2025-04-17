@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Georgia, Tahoma, sans-serif;
+    /* color: white; */
+}
+
+body {
+    background-color: #ec9d04;
+}
+
+.title {
+    text-align: center;
+    margin: 50px;
+    border: 2px solid red;
+    background-color: #e28401;
+    padding: 12px;
+
+}
+
+.links {
+    text-align: center;
+}
+
+a:link {
+    color: #b00005;
+    text-decoration: none;
+}
+
+.item {
+    font-size: 28px;
+    padding: 12px;
+    /* margin: 5px; */
+}
+
+button {
+    margin: 15px;
+    padding: 10px;
+    font-size: 28px;
+    color: #b00005;
+    background-color: #f15623;
+}
